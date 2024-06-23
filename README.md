@@ -97,8 +97,4 @@ Please use Live Server for viewing the website. For best experience of the dashb
 npm install    #install js libraries
 npm run serve  #starts server on port 2000
 ```
-# f1-fanalytics
-# f1-fanalytics
-# f1-fanalytics
-# f1-fanalytics
-# f1-fanalytics
+
