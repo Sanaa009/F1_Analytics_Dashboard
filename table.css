@@ -1,0 +1,98 @@
+/* Add this CSS code to your existing styles.css file or create a new one */
+body {
+    background-color: #fff; /* Change background color of the entire page to black */
+    margin: 0;
+}
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700);
+@font-face {
+  font-family: 'Formula1-Regular';
+  src: url('static/font/Formula1-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Bold';
+  src: url('static/font/Formula1-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Black';
+  src: url('static/font/Formula1-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Wide';
+  src: url('static/font/Formula1-Wide.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Titillium Web';
+  src: url('static/font/TitilliumWeb-Regular.ttf') format('truetype');
+}
+.table-container {
+    display: flex;
+    justify-content: space-between; /* Add this to separate the two tables */
+    width: 80vw; /* Adjust the width of the container as needed */
+    margin: auto; /* Center the container on the page */
+    margin-left: 200px;
+    margin-top: 50px;
+    border: 2px red;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: 'Formula1-Black';
+    font-size: 3em; /* Adjust font size for better readability */
+    color: black;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 100px;
+}
+
+.column-table {
+    border-collapse: collapse;
+    width: 80vw; /* Adjust the width of each table as needed */
+    border-radius: 10px;
+    border: red 2px;
+}
+
+th, td {
+    background-color:  white;
+    text-align: left;
+    border: 3px red;
+    font-size: 15px; /* Adjust the font size as needed */
+    padding: 4px;
+    font-family: 'Formula1-Regular' !important;
+    color: black; /* Corrected property for text color */
+    transition: background-color 0.3s ease;
+}
+
+th {
+
+    background-color: #613b3b;
+}
+
+
+/* Hover effect on table cells */
+th:hover, td:hover {
+    background-color: #1c1c1c; /* Change to the desired hover background color */
+    color:  white;
+    border-radius: 5px;
+    border: 5px red !important
+}
+
+/* Different fonts for each level of text */
+td img {
+    /* Style for the flag image */
+    border-radius: 50%;
+}
+
+/* Style for the first level of text */
+td:nth-child(2) {
+    font-family: 'Titillium Web', sans-serif !important; /* Replace 'YourFirstFont' with the actual font name */
+    ;
+}
+
+/* Style for the second level of text */
+td:nth-child(3) {
+    font-family: 'Forumula1-Regular', sans-serif !important; /* Replace 'YourSecondFont' with the actual font name */
+}

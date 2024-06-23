@@ -1,0 +1,227 @@
+[
+  {
+    "Year": "1999",
+    "Driver": "Mika Hakkinen",
+    "Constructor": "McLaren-Mercedes",
+    "Country": "Finland",
+    "Points": 76,
+    "Poles": 11,
+    "Races": 16
+  },
+  {
+    "Year": "2000",
+    "Driver": "Michael Schumacher",
+    "Constructor": "Ferrari",
+    "Country": "Germany",
+    "Points": 108,
+    "Poles": 9,
+    "Races": 17
+  },
+  {
+    "Year": "2001",
+    "Driver": "Michael Schumacher",
+    "Constructor": "Ferrari",
+    "Country": "Germany",
+    "Points": 123,
+    "Poles": 11,
+    "Races": 17
+  },
+  {
+    "Year": "2002",
+    "Driver": "Juan Pablo Montoya",
+    "Constructor": "Williams-BMW",
+    "Country": "Colombia",
+    "Points": 50,
+    "Poles": 7,
+    "Races": 17
+  },
+  {
+    "Year": "2003",
+    "Driver": "Michael Schumacher",
+    "Constructor": "Ferrari",
+    "Country": "Germany",
+    "Points": 93,
+    "Poles": 5,
+    "Races": 16
+  },
+  {
+    "Year": "2004",
+    "Driver": "Michael Schumacher",
+    "Constructor": "Ferrari",
+    "Country": "Germany",
+    "Points": 148,
+    "Poles": 8,
+    "Races": 18
+  },
+  {
+    "Year": "2005",
+    "Driver": "Fernando Alonso",
+    "Constructor": "Renault",
+    "Country": "Spain",
+    "Points": 133,
+    "Poles": 6,
+    "Races": 19
+  },
+  {
+    "Year": "2006",
+    "Driver": "Fernando Alonso",
+    "Constructor": "Renault",
+    "Country": "Spain",
+    "Points": 134,
+    "Poles": 6,
+    "Races": 18
+  },
+  {
+    "Year": "2007",
+    "Driver": "Lewis Hamilton",
+    "Constructor": "McLaren-Mercedes",
+    "Country": "United Kingdom",
+    "Points": 109,
+    "Poles": 6,
+    "Races": 17
+  },
+  {
+    "Year": "2008",
+    "Driver": "Lewis Hamilton",
+    "Constructor": "McLaren-Mercedes",
+    "Country": "United Kingdom",
+    "Points": 98,
+    "Poles": 7,
+    "Races": 18
+  },
+  {
+    "Year": "2009",
+    "Driver": "Jenson Button",
+    "Constructor": "Brawn-Mercedes",
+    "Country": "United Kingdom",
+    "Points": 95,
+    "Poles": 4,
+    "Races": 17
+  },
+  {
+    "Year": "2010",
+    "Driver": "Sebastian Vettel",
+    "Constructor": "Red Bull-Renault",
+    "Country": "Germany",
+    "Points": 256,
+    "Poles": 10,
+    "Races": 19
+  },
+  {
+    "Year": "2011",
+    "Driver": "Sebastian Vettel",
+    "Constructor": "Red Bull-Renault",
+    "Country": "Germany",
+    "Points": 392,
+    "Poles": 15,
+    "Races": 19
+  },
+  {
+    "Year": "2012",
+    "Driver": "Lewis Hamilton",
+    "Constructor": "McLaren-Mercedes",
+    "Country": "United Kingdom",
+    "Points": 190,
+    "Poles": 7,
+    "Races": 20
+  },
+  {
+    "Year": "2013",
+    "Driver": "Sebastian Vettel",
+    "Constructor": "Red Bull-Renault",
+    "Country": "Germany",
+    "Points": 397,
+    "Poles": 9,
+    "Races": 19
+  },
+  {
+    "Year": "2014",
+    "Driver": "Nico Rosberg",
+    "Constructor": "Mercedes",
+    "Country": "Germany",
+    "Points": 317,
+    "Poles": 11,
+    "Races": 19
+  },
+  {
+    "Year": "2015",
+    "Driver": "Lewis Hamilton",
+    "Constructor": "Mercedes",
+    "Country": "United Kingdom",
+    "Points": 381,
+    "Poles": 11,
+    "Races": 19
+  },
+  {
+    "Year": "2016",
+    "Driver": "Lewis Hamilton",
+    "Constructor": "Mercedes",
+    "Country": "United Kingdom",
+    "Points": 380,
+    "Poles": 12,
+    "Races": 21
+  },
+  {
+    "Year": "2017",
+    "Driver": "Lewis Hamilton",
+    "Constructor": "Mercedes",
+    "Country": "United Kingdom",
+    "Points": 363,
+    "Poles": 11,
+    "Races": 20
+  },
+  {
+    "Year": "2018",
+    "Driver": "Lewis Hamilton",
+    "Constructor": "Mercedes",
+    "Country": "United Kingdom",
+    "Points": 408,
+    "Poles": 11,
+    "Races": 21
+  },
+  {
+    "Year": "2019",
+    "Driver": "Charles Leclerc",
+    "Constructor": "Ferrari",
+    "Country": "Monaco",
+    "Points": 413,
+    "Poles": 7,
+    "Races": 21
+  },
+  {
+    "Year": "2020",
+    "Driver": "Lewis Hamilton",
+    "Constructor": "Mercedes",
+    "Country": "United Kingdom",
+    "Points": 347,
+    "Poles": 10,
+    "Races": 17
+  },
+  {
+    "Year": "2021",
+    "Driver": "Max Verstappen",
+    "Constructor": "Red Bull Racing-Honda",
+    "Country": "Netherlands",
+    "Points": 395,
+    "Poles": 10,
+    "Races": 22
+  },
+  {
+    "Year": "2022",
+    "Driver": "Charles Leclerc",
+    "Constructor": "Ferrari",
+    "Country": "Monaco",
+    "Points": 454,
+    "Poles": 9,
+    "Races": 22
+  },
+  {
+    "Year": "2023",
+    "Driver": "Max Verstappen",
+    "Constructor": "Red Bull Racing-Honda RBPT",
+    "Country": "Netherlands",
+    "Points": 575,
+    "Poles": 12,
+    "Races": 22
+  }
+]

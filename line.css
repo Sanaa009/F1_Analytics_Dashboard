@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700);
+@font-face {
+  font-family: 'Formula1-Regular';
+  src: url('static/font/Formula1-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Bold';
+  src: url('static/font/Formula1-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Black';
+  src: url('static/font/Formula1-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Wide';
+  src: url('static/font/Formula1-Wide.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Titillium Web';
+  src: url('static/font/TitilliumWeb-Regular.ttf') format('truetype');
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+.chart-container {
+    padding-top: 80px;
+    width: 80%;
+    margin: auto;
+}
+
+.line {
+    fill: none;
+    stroke-width: 2;
+}
+
+.tooltip {
+    position: absolute;
+    background: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    pointer-events: none;
+    opacity: 0;
+}
+
+.driver-image {
+width: 50px; /* Adjust the size of the image */
+height: 50px; /* Adjust the size of the image */
+clip-path: circle(50% at center); /* Make the image round */
+}
+
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    padding-top: 30px;
+    font-family: 'Formula1-Black';
+  }

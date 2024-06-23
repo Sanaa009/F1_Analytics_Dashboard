@@ -1,0 +1,87 @@
+<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F1 Race Visualization</title>
+  
+  <link rel="icon" href="static/f1_logo.svg" type="image/x-icon">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="sim.css">
+  
+  <link rel="stylesheet" href="nav.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://codepen.io/z-/pen/2677821722cd9e02c2c882a17c5b2072.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body>
+  <div class="base">
+    <div class="menu">
+        <div class="icon">
+            <div class="bar"></div>
+        </div>
+    </div>
+    <div class="icons">
+        <i class="fa fa-map" aria-hidden="true"></i>
+        <i class="fa fa-globe" aria-hidden="true"></i>
+        <i class="fa fa-home" aria-hidden="true"></i>
+        
+    </div>
+    <div class="section">
+        <div class="cover1">
+            <div class="cover2">
+                <a class="content" href="index.html"></a>
+            </div>
+        </div>
+    </div>
+    <a class="section-static top" href="choropleth.html"></a>
+    <a class="section-static bottom" href="map.html"></a>
+</div>
+<h1>Lapwise Leaderboard Simulation - Austria 2023</h1>
+<div class="container-fluid text-center">
+  <div class="desc-container"> 
+    <div class="desc">This tool is a laptime simulation visualization for Formula 1 races. It provides an interactive analysis of the performance of the top 3 racers for each lap. The positions of the top 3 drivers at the end of the selected lap are visually displayed on the track, and additional details such as lap times and driver information are presented in a tabular format below the visualization. The tool enables racing enthusiasts to explore and compare the racing dynamics of the leading drivers throughout the race.</div>
+  </div>
+<div class="slider-container">
+  <span id="selectedLap">Lap: 1</span>
+  <div class="lap-buttons">
+    <button onclick="goToPreviousLap()">Previous Lap</button>
+    <button onclick="goToNextLap()">Next Lap</button>
+  </div>
+</div>
+
+<div class="track-container"></div>
+
+<div id="viz"></div>
+<div class="table-container">
+<table id="positions">
+  <thead>
+    <tr>
+      <th>Position</th>
+      <th>Country</th>
+      <th>Driver</th>
+      <th>Time (s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Data will be dynamically added here using JavaScript -->
+  </tbody>
+</table>
+</div>
+
+</div>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://unpkg.com/d3-simple-slider@2"></script>
+<script src="script/sim.js"></script>
+<script src="script/nav.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script src="//api.mapbox.com/mapbox-gl-js/v2.10.0/mapbox-gl.js"></script>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="//d3js.org/d3.geo.projection.v0.min.js"></script>
+<script src="//d3js.org/topojson.v3.min.js"></script>
+
+</body>
+</html>

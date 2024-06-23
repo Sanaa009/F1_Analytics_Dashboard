@@ -1,0 +1,585 @@
+[
+  {
+    "Year": 1950,
+    "Driver(s)": "Argentina Juan Manuel Fangio",
+    "Constructor(s)": "Alfa Romeo",
+    "Poles": 4,
+    "Races": 7
+  },
+  {
+    "Year": 1951,
+    "Driver(s)": "Argentina Juan Manuel Fangio",
+    "Constructor(s)": "Alfa Romeo",
+    "Poles": 4,
+    "Races": 8
+  },
+  {
+    "Year": 1952,
+    "Driver(s)": "Italy Alberto Ascari",
+    "Constructor(s)": "Ferrari",
+    "Poles": 5,
+    "Races": 8
+  },
+  {
+    "Year": 1953,
+    "Driver(s)": "Italy Alberto Ascari",
+    "Constructor(s)": "Ferrari",
+    "Poles": 6,
+    "Races": 9,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1954,
+    "Driver(s)": "Argentina Juan Manuel Fangio",
+    "Constructor(s)": "Maserati, Mercedes",
+    "Poles": 5,
+    "Races": 9
+  },
+  {
+    "Year": 1955,
+    "Driver(s)": "Argentina Juan Manuel Fangio",
+    "Constructor(s)": "Mercedes",
+    "Poles": 3,
+    "Races": 7
+  },
+  {
+    "Year": 1956,
+    "Driver(s)": "Argentina Juan Manuel Fangio",
+    "Constructor(s)": "Ferrari",
+    "Poles": 6,
+    "Races": 8,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1957,
+    "Driver(s)": "Argentina Juan Manuel Fangio",
+    "Constructor(s)": "Maserati",
+    "Poles": 4,
+    "Races": 8
+  },
+  {
+    "Year": 1958,
+    "Driver(s)": "United Kingdom Mike Hawthorn",
+    "Constructor(s)": "Ferrari",
+    "Poles": 4,
+    "Races": 11
+  },
+  {
+    "Year": 1959,
+    "Driver(s)": "United Kingdom Stirling Moss",
+    "Constructor(s)": "Cooper-Climax",
+    "Poles": 4,
+    "Races": 9
+  },
+  {
+    "Year": 1960,
+    "Driver(s)": "United Kingdom Stirling Moss",
+    "Constructor(s)": "Cooper-Climax",
+    "Poles": 4,
+    "Races": 10
+  },
+  {
+    "Year": 1961,
+    "Driver(s)": "United States Phil Hill",
+    "Constructor(s)": "Ferrari",
+    "Poles": 5,
+    "Races": 8
+  },
+  {
+    "Year": 1962,
+    "Driver(s)": "United Kingdom Jim Clark",
+    "Constructor(s)": "Lotus-Climax",
+    "Poles": 6,
+    "Races": 9,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1963,
+    "Driver(s)": "United Kingdom Jim Clark",
+    "Constructor(s)": "Lotus-Climax",
+    "Poles": 7,
+    "Races": 10,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1964,
+    "Driver(s)": "United Kingdom Jim Clark",
+    "Constructor(s)": "Lotus-Climax",
+    "Poles": 5,
+    "Races": 10
+  },
+  {
+    "Year": 1965,
+    "Driver(s)": "United Kingdom Jim Clark",
+    "Constructor(s)": "Lotus-Climax",
+    "Poles": 6,
+    "Races": 10,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1966,
+    "Driver(s)": "Australia Jack Brabham",
+    "Constructor(s)": "Brabham-Repco",
+    "Poles": 3,
+    "Races": 9
+  },
+  {
+    "Year": 1967,
+    "Driver(s)": "United Kingdom Jim Clark",
+    "Constructor(s)": "Lotus-Ford",
+    "Poles": 6,
+    "Races": 11,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1968,
+    "Driver(s)": "New Zealand Chris Amon",
+    "Constructor(s)": "Ferrari",
+    "Poles": 3,
+    "Races": 12
+  },
+  {
+    "Year": 1969,
+    "Driver(s)": "Austria Jochen Rindt",
+    "Constructor(s)": "Lotus-Ford",
+    "Poles": 5,
+    "Races": 11
+  },
+  {
+    "Year": 1970,
+    "Driver(s)": "United Kingdom Jackie Stewart",
+    "Constructor(s)": "Tyrrell-Ford",
+    "Poles": 4,
+    "Races": 13
+  },
+  {
+    "Year": 1971,
+    "Driver(s)": "United Kingdom Jackie Stewart",
+    "Constructor(s)": "Tyrrell-Ford",
+    "Poles": 6,
+    "Races": 11,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1972,
+    "Driver(s)": "Belgium Jacky Ickx",
+    "Constructor(s)": "Ferrari",
+    "Poles": 4,
+    "Races": 12
+  },
+  {
+    "Year": 1973,
+    "Driver(s)": "Sweden Ronnie Peterson",
+    "Constructor(s)": "Lotus-Ford",
+    "Poles": 9,
+    "Races": 15,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1974,
+    "Driver(s)": "Austria Niki Lauda",
+    "Constructor(s)": "Ferrari",
+    "Poles": 9,
+    "Races": 15,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1975,
+    "Driver(s)": "Austria Niki Lauda",
+    "Constructor(s)": "Ferrari",
+    "Poles": 9,
+    "Races": 14,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1976,
+    "Driver(s)": "United Kingdom James Hunt",
+    "Constructor(s)": "McLaren-Ford",
+    "Poles": 8,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1977,
+
+
+    "Driver(s)": "United States Mario Andretti",
+    "Constructor(s)": "Lotus-Ford",
+    "Poles": 7,
+    "Races": 17,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1978,
+    "Driver(s)": "United States Mario Andretti",
+    "Constructor(s)": "Lotus-Ford",
+    "Poles": 8,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1979,
+    "Driver(s)": "France Jacques Laffite",
+    "Constructor(s)": "Ligier-Ford",
+    "Poles": 4,
+    "Races": 15
+  },
+  {
+    "Year": 1979,
+    "Driver(s)": "France Jean-Pierre Jabouille",
+    "Constructor(s)": "Renault",
+    "Poles": null,
+    "Races": null
+  },
+  {
+    "Year": 1980,
+    "Driver(s)": "Australia Alan Jones",
+    "Constructor(s)": "Williams-Ford",
+    "Poles": 3,
+    "Races": 14
+  },
+  {
+    "Year": 1980,
+    "Driver(s)": "France René Arnoux",
+    "Constructor(s)": "Renault",
+    "Poles": 4,
+    "Races": 15
+  },
+  {
+    "Year": 1981,
+    "Driver(s)": "France René Arnoux",
+    "Constructor(s)": "Renault",
+    "Poles": 4,
+    "Races": 15
+  },
+  {
+    "Year": 1981,
+    "Driver(s)": "Brazil Nelson Piquet",
+    "Constructor(s)": "Brabham-Ford",
+    "Poles": null,
+    "Races": null
+  },
+  {
+    "Year": 1982,
+    "Driver(s)": "France René Arnoux",
+    "Constructor(s)": "Renault",
+    "Poles": 5,
+    "Races": 16
+  },
+  {
+    "Year": 1982,
+    "Driver(s)": "France Alain Prost",
+    "Constructor(s)": null,
+    "Poles": null,
+    "Races": null
+  },
+  {
+    "Year": 1983,
+    "Driver(s)": "France René Arnoux",
+    "Constructor(s)": "Ferrari",
+    "Poles": 4,
+    "Races": 15
+  },
+  {
+    "Year": 1983,
+    "Driver(s)": "France Patrick Tambay",
+    "Constructor(s)": "Ferrari",
+    "Poles": null,
+    "Races": null
+  },
+  {
+    "Year": 1984,
+    "Driver(s)": "Brazil Nelson Piquet",
+    "Constructor(s)": "Brabham-BMW",
+    "Poles": 9,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1985,
+    "Driver(s)": "Brazil Ayrton Senna",
+    "Constructor(s)": "Lotus-Renault",
+    "Poles": 7,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1986,
+    "Driver(s)": "Brazil Ayrton Senna",
+    "Constructor(s)": "Lotus-Renault",
+    "Poles": 8,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1987,
+    "Driver(s)": "United Kingdom Nigel Mansell",
+    "Constructor(s)": "Williams-Honda",
+    "Poles": 8,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1988,
+    "Driver(s)": "Brazil Ayrton Senna",
+    "Constructor(s)": "McLaren-Honda",
+    "Poles": 13,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1989,
+    "Driver(s)": "Brazil Ayrton Senna",
+    "Constructor(s)": "McLaren-Honda",
+    "Poles": 13,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1990,
+    "Driver(s)": "Brazil Ayrton Senna",
+    "Constructor(s)": "McLaren-Honda",
+    "Poles": 10,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1991,
+    "Driver(s)": "Brazil Ayrton Senna",
+    "Constructor(s)": "McLaren-Honda",
+    "Poles": 8,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1992,
+    "Driver(s)": "United Kingdom Nigel Mansell",
+    "Constructor(s)": "Williams-Renault",
+    "Poles": 14,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1993,
+    "Driver(s)": "France Alain Prost",
+    "Constructor(s)": "Williams-Renault",
+    "Poles": 13,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1994,
+    "Driver(s)": "Germany Michael Schumacher",
+    "Constructor(s)": "Benetton-Ford",
+    "Poles": 6,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1995,
+    "Driver(s)": "United Kingdom Damon Hill",
+    "Constructor(s)": "Williams-Renault",
+    "Poles": 7,
+    "Races": 17,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1996,
+    "Driver(s)": "United Kingdom Damon Hill",
+    "Constructor(s)": "Williams-Renault",
+    "Poles": 9,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1997,
+    "Driver(s)": "Canada Jacques Villeneuve",
+    "Constructor(s)": "Williams-Renault",
+    "Poles": 10,
+    "Races": 17,
+    "Ref": "[19]"
+  },
+  {
+    "Year": 1998,
+    "Driver(s)": "Finland Mika Häkkinen",
+    "Constructor(s)": "McLaren-Mercedes",
+    "Poles": 9,
+    "Races": 16,
+    "Ref": "[19]"
+  },
+    {
+        "Year": 1999,
+        "Driver(s)": "Finland Mika Häkkinen",
+        "Constructor(s)": "McLaren-Mercedes",
+        "Poles": 11,
+        "Races": 16
+    },
+    {
+        "Year": 2000,
+        "Driver(s)": "Germany Michael Schumacher",
+        "Constructor(s)": "Ferrari",
+        "Poles": 9,
+        "Races": 17
+    },
+    {
+        "Year": 2001,
+        "Driver(s)": "Germany Michael Schumacher",
+        "Constructor(s)": "Ferrari",
+        "Poles": 11,
+        "Races": 17
+    },
+    {
+        "Year": 2002,
+        "Driver(s)": "Colombia Juan Pablo Montoya",
+        "Constructor(s)": "Williams-BMW",
+        "Poles": 7,
+        "Races": 17
+    },
+    {
+        "Year": 2003,
+        "Driver(s)": "Germany Michael Schumacher",
+        "Constructor(s)": "Ferrari",
+        "Poles": 5,
+        "Races": 16
+    },
+    {
+        "Year": 2004,
+        "Driver(s)": "Germany Michael Schumacher",
+        "Constructor(s)": "Ferrari",
+        "Poles": 8,
+        "Races": 18
+    },
+    {
+        "Year": 2005,
+        "Driver(s)": "Spain Fernando Alonso",
+        "Constructor(s)": "Renault",
+        "Poles": 6,
+        "Races": 19
+    },
+    {
+        "Year": 2006,
+        "Driver(s)": "Spain Fernando Alonso",
+        "Constructor(s)": "Renault",
+        "Poles": 6,
+        "Races": 18
+    },
+    {
+        "Year": 2007,
+        "Driver(s)": "United Kingdom Lewis Hamilton",
+        "Constructor(s)": "McLaren-Mercedes",
+        "Poles": 6,
+        "Races": 17
+    },
+    {
+        "Year": 2008,
+        "Driver(s)": "United Kingdom Lewis Hamilton",
+        "Constructor(s)": "McLaren-Mercedes",
+        "Poles": 7,
+        "Races": 18
+    },
+    {
+        "Year": 2009,
+        "Driver(s)": "United Kingdom Jenson Button",
+        "Constructor(s)": "Brawn-Mercedes",
+        "Poles": 4,
+        "Races": 17
+    },
+    {
+        "Year": 2010,
+        "Driver(s)": "Germany Sebastian Vettel",
+        "Constructor(s)": "Red Bull-Renault",
+        "Poles": 10,
+        "Races": 19
+    },
+    {
+        "Year": 2011,
+        "Driver(s)": "Germany Sebastian Vettel",
+        "Constructor(s)": "Red Bull-Renault",
+        "Poles": 15,
+        "Races": 19
+    },
+    {
+        "Year": 2012,
+        "Driver(s)": "United Kingdom Lewis Hamilton",
+        "Constructor(s)": "McLaren-Mercedes",
+        "Poles": 7,
+        "Races": 20
+    },
+    {
+        "Year": 2013,
+        "Driver(s)": "Germany Sebastian Vettel",
+        "Constructor(s)": "Red Bull-Renault",
+        "Poles": 9,
+        "Races": 19
+    },
+    {
+        "Year": 2014,
+        "Driver(s)": "Germany Nico Rosberg",
+        "Constructor(s)": "Mercedes",
+        "Poles": 11,
+        "Races": 19
+    },
+    {
+        "Year": 2015,
+        "Driver(s)": "United Kingdom Lewis Hamilton",
+        "Constructor(s)": "Mercedes",
+        "Poles": 11,
+        "Races": 19
+    },
+    {
+        "Year": 2016,
+        "Driver(s)": "United Kingdom Lewis Hamilton",
+        "Constructor(s)": "Mercedes",
+        "Poles": 12,
+        "Races": 21
+    },
+    {
+        "Year": 2017,
+        "Driver(s)": "United Kingdom Lewis Hamilton",
+        "Constructor(s)": "Mercedes",
+        "Poles": 11,
+        "Races": 20
+    },
+    {
+        "Year": 2018,
+        "Driver(s)": "United Kingdom Lewis Hamilton",
+        "Constructor(s)": "Mercedes",
+        "Poles": 11,
+        "Races": 21
+    },
+    {
+        "Year": 2019,
+        "Driver(s)": "Monaco Charles Leclerc",
+        "Constructor(s)": "Ferrari",
+        "Poles": 7,
+        "Races": 21
+    },
+    {
+        "Year": 2020,
+        "Driver(s)": "United Kingdom Lewis Hamilton",
+        "Constructor(s)": "Mercedes",
+        "Poles": 10,
+        "Races": 17
+    },
+    {
+        "Year": 2021,
+        "Driver(s)": "Netherlands Max Verstappen",
+        "Constructor(s)": "Red Bull Racing-Honda",
+        "Poles": 10,
+        "Races": 22
+    },
+    {
+        "Year": 2022,
+        "Driver(s)": "Monaco Charles Leclerc",
+        "Constructor(s)": "Ferrari",
+        "Poles": 9,
+        "Races": 22
+    },
+    {
+        "Year": 2023,
+        "Driver(s)": "Netherlands Max Verstappen",
+        "Constructor(s)": "Red Bull Racing-Honda RBPT",
+        "Poles": 12,
+        "Races": 22
+    }
+]

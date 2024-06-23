@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1 Grand Prix Results</title>
+    <link rel="icon" href="static/f1_logo.svg" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="table.css">
+    <link rel="stylesheet" type="text/css" href="nav.css">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://codepen.io/z-/pen/2677821722cd9e02c2c882a17c5b2072.js"></script>
+  <style>
+    body {
+        overflow-y: scroll; /* Enable vertical scrolling */
+        animation: scrollAnimation 10s linear infinite  alternate; /* Adjust the animation duration as needed */
+    }
+
+    @keyframes scrollAnimation {
+        from {
+            transform: translateY(0);
+        }
+        to {
+            transform: translateY(-100%);
+        }
+    }
+</style>
+</head>
+<body>
+    
+    <div class="chart-container">
+        <div class="table-container">
+            <table class="column-table" id="table1"></table>
+            <table class="column-table" id="table2"></table>
+        </div>
+        <script src="script/table.js"></script>
+        <script src="script/nav.js"></script>
+</div>
+</body>
+</html>
+

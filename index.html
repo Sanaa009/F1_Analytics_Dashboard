@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Homw</title>
+  <link rel="icon" href="static/f1_logo.svg" type="image/x-icon">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="nav.css"> 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://codepen.io/z-/pen/2677821722cd9e02c2c882a17c5b2072.js"></script>
+</head>
+
+<body>
+  <div class="base">
+      <div class="menu">
+          <div class="icon">
+              <div class="bar"></div>
+          </div>
+      </div>
+      <div class="icons">
+          <i class="fa fa-map" aria-hidden="true"></i>
+          <i class="fa fa-globe" aria-hidden="true"></i>
+          <i class="fa fa-home" aria-hidden="true"></i>
+          
+      </div>
+      <div class="section">
+          <div class="cover1">
+              <div class="cover2">
+                  <a class="content" href="index.html"></a>
+              </div>
+          </div>
+      </div>
+      <a class="section-static top" href="choropleth.html"></a>
+      <a class="section-static bottom" href="map.html"></a>
+  </div>
+
+  <script src="script/nav.js"></script>
+  
+  <div class="container-fluid">
+    <h1>F1 Fanalytics</h1>
+    <div class="row flex-nowrap">
+      <!-- First column with 6/12 width (half) on all screen sizes -->
+      <div class="col-md-3 mr-1">
+        <!-- Content for the first column of the second row goes here -->
+        <div id="el" class='kpi1' data-value="0.55">
+          <span id="needle"></span>
+        </div>
+        <p> </p>
+        <p> </p>
+    
+        <p>Rating</p>
+        
+      </div>
+      <!-- Second column with 6/12 width (half) on all screen sizes -->
+      <div class="col-md-3 mr-1">
+        <!-- Content for the second column of the second row goes here -->
+        <div id="el" data-value="1.12 M">
+          <span id="needle"></span>
+        </div>
+        <p> </p>
+        <p> </p>
+        <p>Race Viewership</p>
+      </div>
+
+      <div class="col-md-3 mr-1">
+
+        <div id="el" data-value="1.55 B">
+          <span id="needle"></span>
+        </div>
+        <p> </p>
+        <p> </p>
+        <p>Total Fanbase</p>
+      </div>
+
+      <div class="col-md-3 mr-1">
+      
+        <div id="el" data-value="$26.76 (-0.52%)">
+          <span id="needle"></span>
+        </div>
+        <p> </p>
+        <p> </p>
+        <p>Stock Price</p>
+      </div>
+    </div>
+    <!-- End of the second row -->
+    <div class="row flex-nowrap">
+      <div class="col-md-6 ml-3">
+        <a href="table.html" class="iframe-overlay" id="iframeLink">
+
+          <p>Schedule 2023</p>
+        
+          <iframe src="table sub.html" width="600" height="350"  frameBorder="0" scrolling="auto"></iframe>
+
+        </a>
+      </div>
+      <div class="col-md-6 ml-3">
+        <a href="sim.html" class="iframe-overlay" id="iframeLink">
+
+          <p>Track Simulation</p>
+        
+          <iframe src="sim sub.html" width="400" height="350"  frameBorder="0" scrolling="no"></iframe>
+
+        </a>
+      </div>
+    </div>
+    <div class="row flex-nowrap">
+
+        <div class="col-md-6 mr-4">
+          <a href="bar.html" class="iframe-overlay" id="iframeLink">
+
+            <p>Point Distribution</p>
+          
+            <iframe src="bar sub.html" width="600" height="300"  frameBorder="0" scrolling="no"></iframe>
+
+          </a>
+          
+        </div>
+  
+      <div class="col-md-6">
+        <a href="coxcomb.html" class="iframe-overlay" id="iframeLink">
+
+          <p>Polesitter Stats</p>
+        
+          <iframe src="coxcomb sub.html" width="600" height="300"  frameBorder="0" scrolling="yes"></iframe>
+
+        </a>
+      </div>
+    </div>
+    
+    <div class="row flex-nowrap">
+      <div class="col-md-12 ml-3">
+        <a href="line.html" class="iframe-overlay" id="iframeLink">
+
+          <p>Score History</p>
+        
+          <iframe src="line sub.html" width="1200" height="350"  frameBorder="0" scrolling="no"></iframe>
+
+        </a>
+    </div>
+    </div>
+
+  <!-- Add Bootstrap JS and Popper.js scripts -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <!-- <script src="script/needle.js"></script> -->
+  <script src="script/drop.js"></script>
+  <script src="script/bar.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="//api.mapbox.com/mapbox-gl-js/v2.10.0/mapbox-gl.js"></script>
+  <script src="//d3js.org/d3.v3.min.js"></script>
+  <script src="//d3js.org/d3.geo.projection.v0.min.js"></script>
+  <script src="//d3js.org/topojson.v3.min.js"></script>
+  
+</body>
+</html>

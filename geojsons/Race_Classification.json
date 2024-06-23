@@ -1,0 +1,2102 @@
+[
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 57,
+      "Time/Retired": "1:33:56.736",
+      "Grid": 1,
+      "Points": 25,
+      "Grand Prix": "Bahrain"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 57,
+      "Time/Retired": "+11.987",
+      "Grid": 2,
+      "Points": 18,
+      "Grand Prix": "Bahrain"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 57,
+      "Time/Retired": "+38.637",
+      "Grid": 5,
+      "Points": 15,
+      "Grand Prix": "Bahrain"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 57,
+      "Time/Retired": "+48.052",
+      "Grid": 4,
+      "Points": 12,
+      "Grand Prix": "Bahrain"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 57,
+      "Time/Retired": "+50.977",
+      "Grid": 7,
+      "Points": 10,
+      "Grand Prix": "Bahrain"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "Canada Lance Stroll",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 57,
+      "Time/Retired": "+54.502",
+      "Grid": 8,
+      "Points": 8,
+      "Grand Prix": "Bahrain"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 57,
+      "Time/Retired": "+55.873",
+      "Grid": 6,
+      "Points": 6,
+      "Grand Prix": "Bahrain"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "Finland Valtteri Bottas",
+      "Constructor": "Alfa Romeo-Ferrari",
+      "Laps": 57,
+      "Time/Retired": "+1:12.647",
+      "Grid": 12,
+      "Points": 4,
+      "Grand Prix": "Bahrain"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "France Pierre Gasly",
+      "Constructor": "Alpine-Renault",
+      "Laps": 57,
+      "Time/Retired": "+1:13.753",
+      "Grid": 20,
+      "Points": 2,
+      "Grand Prix": "Bahrain"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Thailand Alexander Albon",
+      "Constructor": "Williams-Mercedes",
+      "Laps": 57,
+      "Time/Retired": "+1:29.774",
+      "Grid": 15,
+      "Points": 1,
+      "Grand Prix": "Bahrain"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 50,
+      "Time/Retired": "1:21:14.894",
+      "Grid": 1,
+      "Points": 25,
+      "Grand Prix": "Saudi Arabian"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 50,
+      "Time/Retired": "+5.355",
+      "Grid": 15,
+      "Points": 191,
+      "Grand Prix": "Saudi Arabian"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 50,
+      "Time/Retired": "+20.728",
+      "Grid": 2,
+      "Points": 15,
+      "Grand Prix": "Saudi Arabian"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 50,
+      "Time/Retired": "+25.866",
+      "Grid": 3,
+      "Points": 12,
+      "Grand Prix": "Saudi Arabian"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 50,
+      "Time/Retired": "+31.065",
+      "Grid": 7,
+      "Points": 10,
+      "Grand Prix": "Saudi Arabian"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 50,
+      "Time/Retired": "+35.876",
+      "Grid": 4,
+      "Points": 8,
+      "Grand Prix": "Saudi Arabian"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 50,
+      "Time/Retired": "+43.162",
+      "Grid": 12,
+      "Points": 6,
+      "Grand Prix": "Saudi Arabian"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "France Esteban Ocon",
+      "Constructor": "Alpine-Renault",
+      "Laps": 50,
+      "Time/Retired": "+52.832",
+      "Grid": 6,
+      "Points": 4,
+      "Grand Prix": "Saudi Arabian"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "France Pierre Gasly",
+      "Constructor": "Alpine-Renault",
+      "Laps": 50,
+      "Time/Retired": "+54.747",
+      "Grid": 9,
+      "Points": 2,
+      "Grand Prix": "Saudi Arabian"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Denmark Kevin Magnussen",
+      "Constructor": "Haas-Ferrari",
+      "Laps": 50,
+      "Time/Retired": "+1:04.826",
+      "Grid": 13,
+      "Points": 1,
+      "Grand Prix": "Saudi Arabian"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 58,
+      "Time/Retired": "2:32:38.371",
+      "Grid": 1,
+      "Points": 25,
+      "Grand Prix": "Australian"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 58,
+      "Time/Retired": "+0.179",
+      "Grid": 3,
+      "Points": 18,
+      "Grand Prix": "Australian"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 58,
+      "Time/Retired": "+0.769",
+      "Grid": 4,
+      "Points": 15,
+      "Grand Prix": "Australian"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Canada Lance Stroll",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 58,
+      "Time/Retired": "+3.082",
+      "Grid": 6,
+      "Points": 12,
+      "Grand Prix": "Australian"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 58,
+      "Time/Retired": "+3.320",
+      "Grid": "PL",
+      "Points": 111,
+      "Grand Prix": "Australian"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 58,
+      "Time/Retired": "+3.701",
+      "Grid": 13,
+      "Points": 8,
+      "Grand Prix": "Australian"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "Germany Nico Hülkenberg",
+      "Constructor": "Haas-Ferrari",
+      "Laps": 58,
+      "Time/Retired": "+4.939",
+      "Grid": 10,
+      "Points": 6,
+      "Grand Prix": "Australian"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "Australia Oscar Piastri",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 58,
+      "Time/Retired": "+5.382",
+      "Grid": 16,
+      "Points": 4,
+      "Grand Prix": "Australian"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "China Zhou Guanyu",
+      "Constructor": "Alfa Romeo-Ferrari",
+      "Laps": 58,
+      "Time/Retired": "+5.713",
+      "Grid": 17,
+      "Points": 2,
+      "Grand Prix": "Australian"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Japan Yuki Tsunoda",
+      "Constructor": "AlphaTauri-Honda RBPT",
+      "Laps": 58,
+      "Time/Retired": "+6.052",
+      "Grid": 12,
+      "Points": 1,
+      "Grand Prix": "Australian"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 51,
+      "Time/Retired": "1:32:42.436",
+      "Grid": 3,
+      "Points": 25,
+      "Grand Prix": "Azerbaijan"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 51,
+      "Time/Retired": "+2.137",
+      "Grid": 2,
+      "Points": 18,
+      "Grand Prix": "Azerbaijan"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 51,
+      "Time/Retired": "+21.217",
+      "Grid": 1,
+      "Points": 15,
+      "Grand Prix": "Azerbaijan"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 51,
+      "Time/Retired": "+22.024",
+      "Grid": 6,
+      "Points": 12,
+      "Grand Prix": "Azerbaijan"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 51,
+      "Time/Retired": "+45.491",
+      "Grid": 4,
+      "Points": 10,
+      "Grand Prix": "Azerbaijan"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 51,
+      "Time/Retired": "+46.145",
+      "Grid": 5,
+      "Points": 8,
+      "Grand Prix": "Azerbaijan"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "Canada Lance Stroll",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 51,
+      "Time/Retired": "+51.617",
+      "Grid": 9,
+      "Points": 6,
+      "Grand Prix": "Azerbaijan"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 51,
+      "Time/Retired": "+1:14.240",
+      "Grid": 11,
+      "Points": 51,
+      "Grand Prix": "Azerbaijan"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 51,
+      "Time/Retired": "+1:20.376",
+      "Grid": 7,
+      "Points": 2,
+      "Grand Prix": "Azerbaijan"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Japan Yuki Tsunoda",
+      "Constructor": "AlphaTauri-Honda RBPT",
+      "Laps": 51,
+      "Time/Retired": "+1:23.862",
+      "Grid": 8,
+      "Points": 1,
+      "Grand Prix": "Azerbaijan"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 57,
+      "Time/Retired": "1:27:38.241",
+      "Grid": 9,
+      "Points": 25,
+      "Grand Prix": "Miami"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 57,
+      "Time/Retired": "+5.384",
+      "Grid": 1,
+      "Points": 18,
+      "Grand Prix": "Miami"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 57,
+      "Time/Retired": "+26.305",
+      "Grid": 2,
+      "Points": 15,
+      "Grand Prix": "Miami"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 57,
+      "Time/Retired": "+33.229",
+      "Grid": 6,
+      "Points": 12,
+      "Grand Prix": "Miami"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 57,
+      "Time/Retired": "+42.5112",
+      "Grid": 3,
+      "Points": 10,
+      "Grand Prix": "Miami"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 57,
+      "Time/Retired": "+51.249",
+      "Grid": 13,
+      "Points": 8,
+      "Grand Prix": "Miami"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 57,
+      "Time/Retired": "+52.988",
+      "Grid": 7,
+      "Points": 6,
+      "Grand Prix": "Miami"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "France Pierre Gasly",
+      "Constructor": "Alpine-Renault",
+      "Laps": 57,
+      "Time/Retired": "+55.670",
+      "Grid": 5,
+      "Points": 4,
+      "Grand Prix": "Miami"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "France Esteban Ocon",
+      "Constructor": "Alpine-Renault",
+      "Laps": 57,
+      "Time/Retired": "+58.123",
+      "Grid": 8,
+      "Points": 2,
+      "Grand Prix": "Miami"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Denmark Kevin Magnussen",
+      "Constructor": "Haas-Ferrari",
+      "Laps": 57,
+      "Time/Retired": "+1:02.945",
+      "Grid": 4,
+      "Points": 1,
+      "Grand Prix": "Miami"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 78,
+      "Time/Retired": "1:48:51.980",
+      "Grid": 1,
+      "Points": 25,
+      "Grand Prix": "Monaco"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 78,
+      "Time/Retired": "+27.921",
+      "Grid": 2,
+      "Points": 18,
+      "Grand Prix": "Monaco"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "France Esteban Ocon",
+      "Constructor": "Alpine-Renault",
+      "Laps": 78,
+      "Time/Retired": "+36.990",
+      "Grid": 3,
+      "Points": 15,
+      "Grand Prix": "Monaco"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 78,
+      "Time/Retired": "+39.062",
+      "Grid": 5,
+      "Points": 13,
+      "Grand Prix": "Monaco"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 78,
+      "Time/Retired": "+56.2842",
+      "Grid": 8,
+      "Points": 10,
+      "Grand Prix": "Monaco"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 78,
+      "Time/Retired": "+1:01.890",
+      "Grid": 6,
+      "Points": 8,
+      "Grand Prix": "Monaco"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "France Pierre Gasly",
+      "Constructor": "Alpine-Renault",
+      "Laps": 78,
+      "Time/Retired": "+1:02.362",
+      "Grid": 7,
+      "Points": 6,
+      "Grand Prix": "Monaco"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 78,
+      "Time/Retired": "+1:03.391",
+      "Grid": 4,
+      "Points": 4,
+      "Grand Prix": "Monaco"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 77,
+      "Time/Retired": "+1 lap",
+      "Grid": 10,
+      "Points": 2,
+      "Grand Prix": "Monaco"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Australia Oscar Piastri",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 77,
+      "Time/Retired": "+1 lap",
+      "Grid": 11,
+      "Points": 1,
+      "Grand Prix": "Monaco"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 66,
+      "Time/Retired": "1:27:57.940",
+      "Grid": 1,
+      "Points": 261,
+      "Grand Prix": "Spanish"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 66,
+      "Time/Retired": "+24.090",
+      "Grid": 4,
+      "Points": 18,
+      "Grand Prix": "Spanish"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 66,
+      "Time/Retired": "+32.389",
+      "Grid": 12,
+      "Points": 15,
+      "Grand Prix": "Spanish"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 66,
+      "Time/Retired": "+35.812",
+      "Grid": 11,
+      "Points": 12,
+      "Grand Prix": "Spanish"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 66,
+      "Time/Retired": "+45.698",
+      "Grid": 2,
+      "Points": 10,
+      "Grand Prix": "Spanish"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "Canada Lance Stroll",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 66,
+      "Time/Retired": "+1:03.320",
+      "Grid": 5,
+      "Points": 8,
+      "Grand Prix": "Spanish"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 66,
+      "Time/Retired": "+1:04.127",
+      "Grid": 8,
+      "Points": 6,
+      "Grand Prix": "Spanish"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "France Esteban Ocon",
+      "Constructor": "Alpine-Renault",
+      "Laps": 66,
+      "Time/Retired": "+1:09.242",
+      "Grid": 6,
+      "Points": 4,
+      "Grand Prix": "Spanish"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "China Zhou Guanyu",
+      "Constructor": "Alfa Romeo-Ferrari",
+      "Laps": 66,
+      "Time/Retired": "+1:11.878",
+      "Grid": 13,
+      "Points": 2,
+      "Grand Prix": "Spanish"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "France Pierre Gasly",
+      "Constructor": "Alpine-Renault",
+      "Laps": 66,
+      "Time/Retired": "+1:13.530",
+      "Grid": 10,
+      "Points": 1,
+      "Grand Prix": "Spanish"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 70,
+      "Time/Retired": "1:33:58.348",
+      "Grid": 1,
+      "Points": 25,
+      "Grand Prix": "Canadian"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 70,
+      "Time/Retired": "+9.570",
+      "Grid": 2,
+      "Points": 18,
+      "Grand Prix": "Canadian"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 70,
+      "Time/Retired": "+14.168",
+      "Grid": 3,
+      "Points": 15,
+      "Grand Prix": "Canadian"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 70,
+      "Time/Retired": "+18.648",
+      "Grid": 10,
+      "Points": 12,
+      "Grand Prix": "Canadian"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 70,
+      "Time/Retired": "+21.540",
+      "Grid": 11,
+      "Points": 10,
+      "Grand Prix": "Canadian"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 70,
+      "Time/Retired": "+51.028",
+      "Grid": 12,
+      "Points": 91,
+      "Grand Prix": "Canadian"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "Thailand Alexander Albon",
+      "Constructor": "Williams-Mercedes",
+      "Laps": 70,
+      "Time/Retired": "+1:00.813",
+      "Grid": 9,
+      "Points": 6,
+      "Grand Prix": "Canadian"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "France Esteban Ocon",
+      "Constructor": "Alpine-Renault",
+      "Laps": 70,
+      "Time/Retired": "+1:01.692",
+      "Grid": 6,
+      "Points": 4,
+      "Grand Prix": "Canadian"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "Canada Lance Stroll",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 70,
+      "Time/Retired": "+1:04.402",
+      "Grid": 16,
+      "Points": 2,
+      "Grand Prix": "Canadian"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Finland Valtteri Bottas",
+      "Constructor": "Alfa Romeo-Ferrari",
+      "Laps": 70,
+      "Time/Retired": "+1:04.432",
+      "Grid": 14,
+      "Points": 1,
+      "Grand Prix": "Canadian"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 71,
+      "Time/Retired": "1:25:33.607",
+      "Grid": 1,
+      "Points": 261,
+      "Grand Prix": "Austrian"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 71,
+      "Time/Retired": "+5.155",
+      "Grid": 2,
+      "Points": 18,
+      "Grand Prix": "Austrian"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 71,
+      "Time/Retired": "+17.188",
+      "Grid": 15,
+      "Points": 15,
+      "Grand Prix": "Austrian"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+26.327",
+      "Grid": 4,
+      "Points": 12,
+      "Grand Prix": "Austrian"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+30.317",
+      "Grid": 7,
+      "Points": 10,
+      "Grand Prix": "Austrian"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 71,
+      "Time/Retired": "+31.3772",
+      "Grid": 3,
+      "Points": 8,
+      "Grand Prix": "Austrian"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+48.403",
+      "Grid": 11,
+      "Points": 6,
+      "Grand Prix": "Austrian"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+49.1963",
+      "Grid": 5,
+      "Points": 4,
+      "Grand Prix": "Austrian"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "Canada Lance Stroll",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+59.043",
+      "Grid": 6,
+      "Points": 2,
+      "Grand Prix": "Austrian"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "France Pierre Gasly",
+      "Constructor": "Alpine-Renault",
+      "Laps": 71,
+      "Time/Retired": "+1:07.6674",
+      "Grid": 9,
+      "Points": 1,
+      "Grand Prix": "Austrian"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 52,
+      "Time/Retired": "1:25:16.938",
+      "Grid": 1,
+      "Points": 261,
+      "Grand Prix": "British"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 52,
+      "Time/Retired": "+3.798",
+      "Grid": 2,
+      "Points": 18,
+      "Grand Prix": "British"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 52,
+      "Time/Retired": "+6.783",
+      "Grid": 7,
+      "Points": 15,
+      "Grand Prix": "British"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Australia Oscar Piastri",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 52,
+      "Time/Retired": "+7.776",
+      "Grid": 3,
+      "Points": 12,
+      "Grand Prix": "British"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 52,
+      "Time/Retired": "+11.206",
+      "Grid": 6,
+      "Points": 10,
+      "Grand Prix": "British"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 52,
+      "Time/Retired": "+12.882",
+      "Grid": 15,
+      "Points": 8,
+      "Grand Prix": "British"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 52,
+      "Time/Retired": "+17.193",
+      "Grid": 9,
+      "Points": 6,
+      "Grand Prix": "British"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "Thailand Alexander Albon",
+      "Constructor": "Williams-Mercedes",
+      "Laps": 52,
+      "Time/Retired": "+17.878",
+      "Grid": 8,
+      "Points": 4,
+      "Grand Prix": "British"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 52,
+      "Time/Retired": "+18.689",
+      "Grid": 4,
+      "Points": 2,
+      "Grand Prix": "British"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 52,
+      "Time/Retired": "+19.448",
+      "Grid": 5,
+      "Points": 1,
+      "Grand Prix": "British"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 44,
+      "Time/Retired": "1:22:30.450",
+      "Grid": 6,
+      "Points": 25,
+      "Grand Prix": "Belgian"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 44,
+      "Time/Retired": "+22.305",
+      "Grid": 2,
+      "Points": 18,
+      "Grand Prix": "Belgian"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 44,
+      "Time/Retired": "+32.259",
+      "Grid": 1,
+      "Points": 15,
+      "Grand Prix": "Belgian"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 44,
+      "Time/Retired": "+49.671",
+      "Grid": 3,
+      "Points": 131,
+      "Grand Prix": "Belgian"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 44,
+      "Time/Retired": "+56.184",
+      "Grid": 9,
+      "Points": 10,
+      "Grand Prix": "Belgian"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 44,
+      "Time/Retired": "+1:03.101",
+      "Grid": 8,
+      "Points": 8,
+      "Grand Prix": "Belgian"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 44,
+      "Time/Retired": "+1:13.719",
+      "Grid": 7,
+      "Points": 6,
+      "Grand Prix": "Belgian"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "France Esteban Ocon",
+      "Constructor": "Alpine-Renault",
+      "Laps": 44,
+      "Time/Retired": "+1:14.719",
+      "Grid": 14,
+      "Points": 4,
+      "Grand Prix": "Belgian"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "Canada Lance Stroll",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 44,
+      "Time/Retired": "+1:19.340",
+      "Grid": 10,
+      "Points": 2,
+      "Grand Prix": "Belgian"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Japan Yuki Tsunoda",
+      "Constructor": "AlphaTauri-Honda RBPT",
+      "Laps": 44,
+      "Time/Retired": "+1:20.221",
+      "Grid": 11,
+      "Points": 1,
+      "Grand Prix": "Belgian"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 72,
+      "Time/Retired": "2:24:04.411",
+      "Grid": 1,
+      "Points": 25,
+      "Grand Prix": "Dutch"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 72,
+      "Time/Retired": "+3.744",
+      "Grid": 5,
+      "Points": 191,
+      "Grand Prix": "Dutch"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "France Pierre Gasly",
+      "Constructor": "Alpine-Renault",
+      "Laps": 72,
+      "Time/Retired": "+7.058",
+      "Grid": 12,
+      "Points": 15,
+      "Grand Prix": "Dutch"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 72,
+      "Time/Retired": "+10.0682",
+      "Grid": 7,
+      "Points": 12,
+      "Grand Prix": "Dutch"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 72,
+      "Time/Retired": "+12.541",
+      "Grid": 6,
+      "Points": 10,
+      "Grand Prix": "Dutch"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 72,
+      "Time/Retired": "+13.209",
+      "Grid": 13,
+      "Points": 8,
+      "Grand Prix": "Dutch"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 72,
+      "Time/Retired": "+13.232",
+      "Grid": 2,
+      "Points": 6,
+      "Grand Prix": "Dutch"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "Thailand Alexander Albon",
+      "Constructor": "Williams-Mercedes",
+      "Laps": 72,
+      "Time/Retired": "+15.155",
+      "Grid": 4,
+      "Points": 4,
+      "Grand Prix": "Dutch"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "Australia Oscar Piastri",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 72,
+      "Time/Retired": "+16.580",
+      "Grid": 8,
+      "Points": 2,
+      "Grand Prix": "Dutch"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "France Esteban Ocon",
+      "Constructor": "Alpine-Renault",
+      "Laps": 72,
+      "Time/Retired": "+18.346",
+      "Grid": 16,
+      "Points": 1,
+      "Grand Prix": "Dutch"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 51,
+      "Time/Retired": "1:13:41.143",
+      "Grid": 2,
+      "Points": 25,
+      "Grand Prix": "Italian"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 51,
+      "Time/Retired": "+6.064",
+      "Grid": 5,
+      "Points": 18,
+      "Grand Prix": "Italian"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 51,
+      "Time/Retired": "+11.193",
+      "Grid": 1,
+      "Points": 15,
+      "Grand Prix": "Italian"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 51,
+      "Time/Retired": "+11.377",
+      "Grid": 3,
+      "Points": 12,
+      "Grand Prix": "Italian"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 51,
+      "Time/Retired": "+23.0282",
+      "Grid": 4,
+      "Points": 10,
+      "Grand Prix": "Italian"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 51,
+      "Time/Retired": "+42.6793",
+      "Grid": 8,
+      "Points": 8,
+      "Grand Prix": "Italian"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "Thailand Alexander Albon",
+      "Constructor": "Williams-Mercedes",
+      "Laps": 51,
+      "Time/Retired": "+45.106",
+      "Grid": 6,
+      "Points": 6,
+      "Grand Prix": "Italian"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 51,
+      "Time/Retired": "+45.449",
+      "Grid": 9,
+      "Points": 4,
+      "Grand Prix": "Italian"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 51,
+      "Time/Retired": "+46.294",
+      "Grid": 10,
+      "Points": 2,
+      "Grand Prix": "Italian"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Finland Valtteri Bottas",
+      "Constructor": "Alfa Romeo-Ferrari",
+      "Laps": 51,
+      "Time/Retired": "+1:04.056",
+      "Grid": 14,
+      "Points": 1,
+      "Grand Prix": "Italian"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 62,
+      "Time/Retired": "1:46:37.418",
+      "Grid": 1,
+      "Points": 25,
+      "Grand Prix": "Singapore"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 62,
+      "Time/Retired": "+0.812",
+      "Grid": 4,
+      "Points": 18,
+      "Grand Prix": "Singapore"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 62,
+      "Time/Retired": "+1.269",
+      "Grid": 5,
+      "Points": 161,
+      "Grand Prix": "Singapore"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 62,
+      "Time/Retired": "+21.177",
+      "Grid": 3,
+      "Points": 12,
+      "Grand Prix": "Singapore"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 62,
+      "Time/Retired": "+21.441",
+      "Grid": 11,
+      "Points": 10,
+      "Grand Prix": "Singapore"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "France Pierre Gasly",
+      "Constructor": "Alpine-Renault",
+      "Laps": 62,
+      "Time/Retired": "+38.441",
+      "Grid": 12,
+      "Points": 8,
+      "Grand Prix": "Singapore"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "Australia Oscar Piastri",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 62,
+      "Time/Retired": "+41.479",
+      "Grid": 17,
+      "Points": 6,
+      "Grand Prix": "Singapore"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 62,
+      "Time/Retired": "+59.5342",
+      "Grid": 13,
+      "Points": 4,
+      "Grand Prix": "Singapore"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "New Zealand Liam Lawson",
+      "Constructor": "AlphaTauri-Honda RBPT",
+      "Laps": 62,
+      "Time/Retired": "+1:05.918",
+      "Grid": 10,
+      "Points": 2,
+      "Grand Prix": "Singapore"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Denmark Kevin Magnussen",
+      "Constructor": "Haas-Ferrari",
+      "Laps": 62,
+      "Time/Retired": "+1:12.116",
+      "Grid": 6,
+      "Points": 1,
+      "Grand Prix": "Singapore"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 53,
+      "Time/Retired": "1:30:58.421",
+      "Grid": 1,
+      "Points": 261,
+      "Grand Prix": "Japanese"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 53,
+      "Time/Retired": "+19.387",
+      "Grid": 3,
+      "Points": 18,
+      "Grand Prix": "Japanese"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "Australia Oscar Piastri",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 53,
+      "Time/Retired": "+36.494",
+      "Grid": 2,
+      "Points": 15,
+      "Grand Prix": "Japanese"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 53,
+      "Time/Retired": "+43.998",
+      "Grid": 4,
+      "Points": 12,
+      "Grand Prix": "Japanese"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 53,
+      "Time/Retired": "+49.376",
+      "Grid": 7,
+      "Points": 10,
+      "Grand Prix": "Japanese"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 53,
+      "Time/Retired": "+50.221",
+      "Grid": 6,
+      "Points": 8,
+      "Grand Prix": "Japanese"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 53,
+      "Time/Retired": "+57.659",
+      "Grid": 8,
+      "Points": 6,
+      "Grand Prix": "Japanese"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 53,
+      "Time/Retired": "+1:14.725",
+      "Grid": 10,
+      "Points": 4,
+      "Grand Prix": "Japanese"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "France Esteban Ocon",
+      "Constructor": "Alpine-Renault",
+      "Laps": 53,
+      "Time/Retired": "+1:19.678",
+      "Grid": 14,
+      "Points": 2,
+      "Grand Prix": "Japanese"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "France Pierre Gasly",
+      "Constructor": "Alpine-Renault",
+      "Laps": 53,
+      "Time/Retired": "+1:23.155",
+      "Grid": 12,
+      "Points": 1,
+      "Grand Prix": "Japanese"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 57,
+      "Time/Retired": "1:27:39.168",
+      "Grid": 1,
+      "Points": 261,
+      "Grand Prix": "Qatar"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "Australia Oscar Piastri",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 57,
+      "Time/Retired": "+4.833",
+      "Grid": 6,
+      "Points": 18,
+      "Grand Prix": "Qatar"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 57,
+      "Time/Retired": "+5.969",
+      "Grid": 10,
+      "Points": 15,
+      "Grand Prix": "Qatar"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 57,
+      "Time/Retired": "+34.119",
+      "Grid": 2,
+      "Points": 12,
+      "Grand Prix": "Qatar"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 57,
+      "Time/Retired": "+38.976",
+      "Grid": 5,
+      "Points": 10,
+      "Grand Prix": "Qatar"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 57,
+      "Time/Retired": "+49.032",
+      "Grid": 4,
+      "Points": 8,
+      "Grand Prix": "Qatar"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "France Esteban Ocon",
+      "Constructor": "Alpine-Renault",
+      "Laps": 57,
+      "Time/Retired": "+1:02.390",
+      "Grid": 8,
+      "Points": 6,
+      "Grand Prix": "Qatar"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "Finland Valtteri Bottas",
+      "Constructor": "Alfa Romeo-Ferrari",
+      "Laps": 57,
+      "Time/Retired": "+1:06.563",
+      "Grid": 9,
+      "Points": 4,
+      "Grand Prix": "Qatar"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "China Zhou Guanyu",
+      "Constructor": "Alfa Romeo-Ferrari",
+      "Laps": 57,
+      "Time/Retired": "+1:16.127",
+      "Grid": 19,
+      "Points": 2,
+      "Grand Prix": "Qatar"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 57,
+      "Time/Retired": "+1:20.1812",
+      "Grid": "PL",
+      "Points": 1,
+      "Grand Prix": "Qatar"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 56,
+      "Time/Retired": "1:35:21.362",
+      "Grid": 6,
+      "Points": 25,
+      "Grand Prix": "United States"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 56,
+      "Time/Retired": "+10.730",
+      "Grid": 2,
+      "Points": 18,
+      "Grand Prix": "United States"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 56,
+      "Time/Retired": "+15.134",
+      "Grid": 4,
+      "Points": 15,
+      "Grand Prix": "United States"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 56,
+      "Time/Retired": "+18.460",
+      "Grid": 9,
+      "Points": 12,
+      "Grand Prix": "United States"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 56,
+      "Time/Retired": "+24.999",
+      "Grid": 5,
+      "Points": 10,
+      "Grand Prix": "United States"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "France Pierre Gasly",
+      "Constructor": "Alpine-Renault",
+      "Laps": 56,
+      "Time/Retired": "+47.996",
+      "Grid": 7,
+      "Points": 8,
+      "Grand Prix": "United States"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "Canada Lance Stroll",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 56,
+      "Time/Retired": "+48.696",
+      "Grid": "PL",
+      "Points": 6,
+      "Grand Prix": "United States"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "Japan Yuki Tsunoda",
+      "Constructor": "AlphaTauri-Honda RBPT",
+      "Laps": 56,
+      "Time/Retired": "+1:14.385",
+      "Grid": 11,
+      "Points": 51,
+      "Grand Prix": "United States"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "Thailand Alexander Albon",
+      "Constructor": "Williams-Mercedes",
+      "Laps": 56,
+      "Time/Retired": "+1:26.7142",
+      "Grid": 15,
+      "Points": 2,
+      "Grand Prix": "United States"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "United States Logan Sargeant",
+      "Constructor": "Williams-Mercedes",
+      "Laps": 56,
+      "Time/Retired": "+1:27.998",
+      "Grid": 16,
+      "Points": 1,
+      "Grand Prix": "United States"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 71,
+      "Time/Retired": "2:02:30.814",
+      "Grid": 3,
+      "Points": 25,
+      "Grand Prix": "Mexico City"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+13.875",
+      "Grid": 6,
+      "Points": 191,
+      "Grand Prix": "Mexico City"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 71,
+      "Time/Retired": "+23.124",
+      "Grid": 1,
+      "Points": 15,
+      "Grand Prix": "Mexico City"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 71,
+      "Time/Retired": "+27.154",
+      "Grid": 2,
+      "Points": 12,
+      "Grand Prix": "Mexico City"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+33.266",
+      "Grid": 17,
+      "Points": 10,
+      "Grand Prix": "Mexico City"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+41.020",
+      "Grid": 8,
+      "Points": 8,
+      "Grand Prix": "Mexico City"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "Australia Daniel Ricciardo",
+      "Constructor": "AlphaTauri-Honda RBPT",
+      "Laps": 71,
+      "Time/Retired": "+41.570",
+      "Grid": 4,
+      "Points": 6,
+      "Grand Prix": "Mexico City"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "Australia Oscar Piastri",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+43.104",
+      "Grid": 7,
+      "Points": 4,
+      "Grand Prix": "Mexico City"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "Thailand Alexander Albon",
+      "Constructor": "Williams-Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+48.573",
+      "Grid": 14,
+      "Points": 2,
+      "Grand Prix": "Mexico City"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "France Esteban Ocon",
+      "Constructor": "Alpine-Renault",
+      "Laps": 71,
+      "Time/Retired": "+1:02.879",
+      "Grid": 15,
+      "Points": 1,
+      "Grand Prix": "Mexico City"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 71,
+      "Time/Retired": "1:56:48.894",
+      "Grid": 1,
+      "Points": 25,
+      "Grand Prix": "São Paulo"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+8.277",
+      "Grid": 6,
+      "Points": 191,
+      "Grand Prix": "São Paulo"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+34.155",
+      "Grid": 4,
+      "Points": 15,
+      "Grand Prix": "São Paulo"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 71,
+      "Time/Retired": "+34.208",
+      "Grid": 9,
+      "Points": 12,
+      "Grand Prix": "São Paulo"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "Canada Lance Stroll",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+40.845",
+      "Grid": 3,
+      "Points": 10,
+      "Grand Prix": "São Paulo"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 71,
+      "Time/Retired": "+50.188",
+      "Grid": 7,
+      "Points": 8,
+      "Grand Prix": "São Paulo"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "France Pierre Gasly",
+      "Constructor": "Alpine-Renault",
+      "Laps": 71,
+      "Time/Retired": "+56.093",
+      "Grid": 15,
+      "Points": 6,
+      "Grand Prix": "São Paulo"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 71,
+      "Time/Retired": "+1:02.859",
+      "Grid": 5,
+      "Points": 4,
+      "Grand Prix": "São Paulo"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "Japan Yuki Tsunoda",
+      "Constructor": "AlphaTauri-Honda RBPT",
+      "Laps": 71,
+      "Time/Retired": "+1:09.880",
+      "Grid": 16,
+      "Points": 2,
+      "Grand Prix": "São Paulo"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "France Esteban Ocon",
+      "Constructor": "Alpine-Renault",
+      "Laps": 70,
+      "Time/Retired": "+1 lap",
+      "Grid": 14,
+      "Points": 1,
+      "Grand Prix": "São Paulo"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 50,
+      "Time/Retired": "1:29:08.289",
+      "Grid": 2,
+      "Points": 25,
+      "Grand Prix": "Las Vegas"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 50,
+      "Time/Retired": "+2.070",
+      "Grid": 1,
+      "Points": 18,
+      "Grand Prix": "Las Vegas"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 50,
+      "Time/Retired": "+2.241",
+      "Grid": 11,
+      "Points": 15,
+      "Grand Prix": "Las Vegas"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "France Esteban Ocon",
+      "Constructor": "Alpine-Renault",
+      "Laps": 50,
+      "Time/Retired": "+18.665",
+      "Grid": 16,
+      "Points": 12,
+      "Grand Prix": "Las Vegas"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "Canada Lance Stroll",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 50,
+      "Time/Retired": "+20.067",
+      "Grid": 19,
+      "Points": 10,
+      "Grand Prix": "Las Vegas"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "Spain Carlos Sainz Jr.",
+      "Constructor": "Ferrari",
+      "Laps": 50,
+      "Time/Retired": "+20.834",
+      "Grid": 12,
+      "Points": 8,
+      "Grand Prix": "Las Vegas"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 50,
+      "Time/Retired": "+21.755",
+      "Grid": 10,
+      "Points": 6,
+      "Grand Prix": "Las Vegas"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 50,
+      "Time/Retired": "+23.0911",
+      "Grid": 3,
+      "Points": 4,
+      "Grand Prix": "Las Vegas"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 50,
+      "Time/Retired": "+25.964",
+      "Grid": 9,
+      "Points": 2,
+      "Grand Prix": "Las Vegas"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Australia Oscar Piastri",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 50,
+      "Time/Retired": "+29.496",
+      "Grid": 18,
+      "Points": 22,
+      "Grand Prix": "Las Vegas"
+    },
+    {
+      "Pos.": 1,
+      "Driver": "Netherlands Max Verstappen",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 58,
+      "Time/Retired": "1:27:02.624",
+      "Grid": 1,
+      "Points": 261,
+      "Grand Prix": "Abu Dhabi"
+    },
+    {
+      "Pos.": 2,
+      "Driver": "Monaco Charles Leclerc",
+      "Constructor": "Ferrari",
+      "Laps": 58,
+      "Time/Retired": "+17.993",
+      "Grid": 2,
+      "Points": 18,
+      "Grand Prix": "Abu Dhabi"
+    },
+    {
+      "Pos.": 3,
+      "Driver": "United Kingdom George Russell",
+      "Constructor": "Mercedes",
+      "Laps": 58,
+      "Time/Retired": "+20.328",
+      "Grid": 4,
+      "Points": 15,
+      "Grand Prix": "Abu Dhabi"
+    },
+    {
+      "Pos.": 4,
+      "Driver": "Mexico Sergio Pérez",
+      "Constructor": "Red Bull Racing-Honda RBPT",
+      "Laps": 58,
+      "Time/Retired": "+21.4532",
+      "Grid": 9,
+      "Points": 12,
+      "Grand Prix": "Abu Dhabi"
+    },
+    {
+      "Pos.": 5,
+      "Driver": "United Kingdom Lando Norris",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 58,
+      "Time/Retired": "+24.284",
+      "Grid": 5,
+      "Points": 10,
+      "Grand Prix": "Abu Dhabi"
+    },
+    {
+      "Pos.": 6,
+      "Driver": "Australia Oscar Piastri",
+      "Constructor": "McLaren-Mercedes",
+      "Laps": 58,
+      "Time/Retired": "+31.487",
+      "Grid": 3,
+      "Points": 8,
+      "Grand Prix": "Abu Dhabi"
+    },
+    {
+      "Pos.": 7,
+      "Driver": "Spain Fernando Alonso",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 58,
+      "Time/Retired": "+39.512",
+      "Grid": 7,
+      "Points": 6,
+      "Grand Prix": "Abu Dhabi"
+    },
+    {
+      "Pos.": 8,
+      "Driver": "Japan Yuki Tsunoda",
+      "Constructor": "AlphaTauri-Honda RBPT",
+      "Laps": 58,
+      "Time/Retired": "+43.088",
+      "Grid": 6,
+      "Points": 4,
+      "Grand Prix": "Abu Dhabi"
+    },
+    {
+      "Pos.": 9,
+      "Driver": "United Kingdom Lewis Hamilton",
+      "Constructor": "Mercedes",
+      "Laps": 58,
+      "Time/Retired": "+44.424",
+      "Grid": 11,
+      "Points": 2,
+      "Grand Prix": "Abu Dhabi"
+    },
+    {
+      "Pos.": 10,
+      "Driver": "Canada Lance Stroll",
+      "Constructor": "Aston Martin Aramco-Mercedes",
+      "Laps": 58,
+      "Time/Retired": "+55.632",
+      "Grid": 13,
+      "Points": 1,
+      "Grand Prix": "Abu Dhabi"
+    }
+  ]                               

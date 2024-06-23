@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Points by Team</title>
+  <link rel="icon" href="static/f1_logo.svg" type="image/x-icon">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="bar.css">
+  <link rel="stylesheet" href="nav.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://codepen.io/z-/pen/2677821722cd9e02c2c882a17c5b2072.js"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  
+ 
+</head>
+<body>
+  <div class="base">
+    <div class="menu">
+        <div class="icon">
+            <div class="bar"></div>
+        </div>
+    </div>
+    <div class="icons">
+        <i class="fa fa-map" aria-hidden="true"></i>
+        <i class="fa fa-globe" aria-hidden="true"></i>
+        <i class="fa fa-home" aria-hidden="true"></i>
+        
+    </div>
+    <div class="section">
+        <div class="cover1">
+            <div class="cover2">
+                <a class="content" href="index.html"></a>
+            </div>
+        </div>
+    </div>
+    <a class="section-static top" href="choropleth.html"></a>
+    <a class="section-static bottom" href="map.html"></a>
+  </div>
+
+  <h1>Point Distribution by Team</h1>
+  <div class="container-chart-team">
+    <div class="chart">
+      <svg width="1000" height="700" id="chart"></svg>
+    </div>
+ 
+    <div class="container mt-1">
+      <div class="row">
+        <div class="col">
+          <h5>Filter By Year</h5>
+          <select class="form-control" id="yearDropdown"></select>
+        </div>
+      </div>
+      
+      <div class="row mt-1">
+        <div class="col">
+          <h5>Filter By Driver</h5>
+          <button class="btn button-team" id="top5Button">Show Top 5</button>
+          <button class="btn button-team" id="bottom3Button">Show Bottom 3</button>
+        </div>
+      </div>
+      
+      <div class="row mt-1">
+        <div class="col">
+          <h5>Order Bar chart</h5>
+          <button class="btn button-team" id="ascendingButton">Sort Ascending</button>
+          <button class="btn button-team" id="descendingButton">Sort Descending</button>
+          <button class="btn button-team" id="resetButton">Reset Order</button>
+        </div>
+      </div>
+    </div>
+    </div>
+  </div>
+
+  <div class="tooltip" id="tooltip" style="position: absolute; opacity: 0;"></div>
+
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="script/bar.js"></script>
+  <script src="script/nav.js"></script>
+</body>
+</html>

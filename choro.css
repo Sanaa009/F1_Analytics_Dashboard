@@ -1,0 +1,400 @@
+
+/* Font imports   #15151e */
+
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700);
+@font-face {
+  font-family: 'Formula1-Regular';
+  src: url('static/font/Formula1-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Bold';
+  src: url('static/font/Formula1-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Black';
+  src: url('static/font/Formula1-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Wide';
+  src: url('static/font/Formula1-Wide.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Titillium Web';
+  src: url('static/font/TitilliumWeb-Regular.ttf') format('truetype');
+}
+
+/* Define colors as variables for easy modification */
+:root {
+  /* --main-bg-color: #1c1c1c; */
+  --main-bg-color: #fff;
+  --main-text-color: #f1f6fa;
+  --accent-color: #e10600;
+  --link-hover-color:  #e10600;
+}
+
+
+h1 {
+  font-family: 'Formula1-Black';
+  font-size: 2.5em; /* Adjust font size for better readability */
+  color: black;
+  text-align: center;
+}
+
+/* Paragraph styling */
+p {
+  color: black;
+  margin: 0 auto 10px auto;
+  max-width: 80%;
+}
+
+p:hover{
+  color: black;
+  margin: 0 auto 10px auto;
+  max-width: 80%;
+  font-size: 1.5em;
+}
+
+
+/* Global styling */
+body {
+  margin: 0;
+  padding: 0;
+  /* margin: 10px auto; */
+  text-align: center;
+  font-size: 0.95em;
+  background-color: var(--main-bg-color);
+  font-family: 'Formula1-Regular', sans-serif;
+  color: var(--main-text-color);
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  opacity: 1;
+}
+
+
+.main-header {
+  background-color: var(--main-bg-color);
+  font-family: 'Formula1-Wide', sans-serif;
+  font-size: 4em;
+  color: #e10600; /* Your desired text color */
+  text-align: center; /* Center the text horizontally */
+  margin-top: 20px; /* Add some top margin for spacing */
+  /* Add any additional styles you want for the h1 */
+}
+
+
+.col-md-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 150px; /* Adjust as needed for minimum height */
+}
+
+.col-md-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px; /* Adjust as needed for minimum height */
+}
+
+/* Navbar styling */
+.navbar {
+  background-color: #e10600 !important; /* Set the background color to the specified red */
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #ffffff; /* Set the font color to white or your preferred color */
+  font-family: 'Formula1-Regular', sans-serif; /* Apply the Formula1-Regular font */
+  transition: color 0.3s, background-color 0.3s;
+}
+
+/* Adjustments for better visibility of links on hover and active state */
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:active,
+.navbar-nav .nav-link:focus {
+  background-color: #000000; /* Font color on hover, active, and focus states */
+  color: #ffffff; 
+}
+
+/* Custom styling for the navigation bar text */
+.navbar-brand .site-header {
+  color: #ffffff;
+  font-size: 2.2em; /* Adjust the font size as needed */
+  margin-left: 300px;
+  font-family: 'Formula1-Bold', sans-serif;
+
+}
+
+/* Optional: Center the text vertically in the navbar */
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+
+
+
+a.link,
+a.link.active {
+  color: #333;
+  
+  text-decoration: none;
+  transition: color .666s;
+}
+
+a.link:hover {
+  color: #f96e02;
+
+}
+
+/* Modified styles for the dropdown menu */
+
+#year-select {
+  text-align: center;
+  align-items: center;
+  width: 50%;
+  margin-top: -60px;
+  font-size: 16px;
+  border: 1px solid #e10600;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #333;
+  top: 100%;
+  left: 50%;
+  transform: translate(190%, -50%);
+  max-width: 300px; /* Adjust the max-width as needed */
+}
+
+#year-select:after {
+  content: '\25BC';
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+/* Optional: Hover effect for the dropdown */
+#year-select:hover {
+  border-color: #e10600;
+  background-color: #e10600;
+  color: white;
+  transition: 0.2s;
+}
+
+/* Optional: Focus effect for the dropdown */
+#year-select:focus {
+  outline: none;
+  border-color: #e10600;
+}
+
+
+/* Added styles for the switch */
+#switch {
+  cursor: pointer;
+  width: 45px;
+  z-index: 1;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+#switch:hover {
+  border-radius: 35px;
+  box-shadow: 0 5px 5px #01a5f8;
+}
+
+/* Added styles for the header */
+#header {
+  z-index: 1;
+  background: #fcfcfa;
+  border-radius: 10px;
+  margin: 5px 10px;
+  padding: 5px 10px;
+  position: absolute;
+  top: 12px;
+  left: 55px;
+}
+
+/* Added styles for the location */
+#location {
+  text-align: center;
+  z-index: 1;
+  background: #fcfcfa;
+  border-radius: 10px;
+  margin: 5px 10px;
+  padding: 5px 10px;
+  display: none;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+/* Added styles for the world */
+#world {
+  z-index: 1;
+  position: relative;
+  bottom: 0;
+  left: 500px;
+}
+
+.hidden {
+  display: none;
+}
+
+.mapboxgl-ctrl.mapboxgl-ctrl-attrib {
+  margin-bottom: 20px !important;
+}
+
+#map{
+
+  border-radius: 60px;
+  /* border-bottom: 10px solid  #e10600;
+  border-left: 10px solid  #e10600;
+  border-top: 10px solid #e10600; */
+}
+
+
+.stroke {
+  fill: none;
+  stroke: #222;
+  stroke-width: 3px;
+}
+
+.fill {
+  fill: #eee;
+  opacity: .666;
+}
+
+.graticule {
+  fill: none;
+  stroke: #777;
+  stroke-width: .5px;
+  stroke-opacity: .5;
+  stroke-dasharray: 2 2;
+}
+
+.land {
+  fill: #222;
+}
+
+.boundary {
+  fill: none;
+  stroke: #eee;
+  stroke-width: .5px;
+}
+
+.background {
+  fill: none;
+  pointer-events: all;
+}
+
+.locations {
+  fill: #ff3f00;
+  cursor: pointer;
+  stroke-width: 1px;
+  stroke: #fff;
+}
+
+/* Added styles for the user icon */
+.icons .fa-user {
+  color: #f96e02;
+}
+
+/* Added styles for the home icon */
+.icons .fa-home {
+  color: #01a5f8;
+}
+
+/* Added styles for the globe icon */
+.icons .fa-globe {
+  color: #01a5f8;
+}
+
+
+.col-md-10{
+  background-color: #000000;
+  padding-left: 80px;
+  min-height: 400px;
+}
+
+
+.row [class^="col-md-2 mr2"]{
+  padding: 20px;
+  border: 20px red;
+
+}
+.row [class^="col-md-10"] {
+ 
+  border-radius: 60px; /* Set the border radius to 5px */
+  border: 10px solid #e10600;
+  /* border-top: 10px solid  #e10600;
+  border-bottom: 10px solid  #e10600;
+  border-left: 10px solid  #e10600; */
+  margin-top: 0px; /* Add margin between cells */
+  margin-left: 150px;
+  margin-bottom: 10px;
+  margin-right: -100px;
+  position: relative; /* Create a relative positioning context for pseudo-elements */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container-fluid{
+  background-color: #fff;
+  border: 20px, red;
+  margin-right: -50px;
+  padding-top: 100px;
+  font-family: 'Formula1-Regular';
+}
+h1 {
+  margin-top: 100px;
+  text-align: center;
+  padding-top: 30px;
+  margin-bottom: -80px;
+  color: #15151e;
+  font-family: 'Formula1-Black';
+  margin-right: 40px;
+}
+
+.drop {
+  /* ... (existing styles) */
+  align-items: center;
+  /* Set a maximum height for the dropdown */
+  max-height: 300px; /* Adjust the height as needed */
+  /* Enable vertical scrolling if the content overflows */
+  overflow-y: auto;
+}
+
+.drop .option-list {
+  /* ... (existing styles) */
+
+  /* Optional: Add padding to the list */
+  padding: 10px;
+}
+
+ /* Define CSS styles for the tooltip */
+ .tooltip {
+  position: absolute;
+  background-color: #f0f0f0;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  pointer-events: none;
+  opacity: 1;
+  font-family: 'Titillium Web' !important;
+}
+
+.legend text {
+
+  color: white;
+  
+}

@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Formula 1™ Circuits</title>
+    <link href="//api.mapbox.com/mapbox-gl-js/v2.10.0/mapbox-gl.css" rel="stylesheet" type="text/css">
+    <link href="map.css" rel="stylesheet" type="text/css">
+    <link rel="icon" href="static/f1_logo.svg" type="image/x-icon">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="nav.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://codepen.io/z-/pen/2677821722cd9e02c2c882a17c5b2072.js"></script>
+</head>
+<body>
+    <div class="base">
+        <div class="menu">
+            <div class="icon">
+                <div class="bar"></div>
+            </div>
+        </div>
+        <div class="icons">
+            <i class="fa fa-map" aria-hidden="true"></i>
+            <i class="fa fa-globe" aria-hidden="true"></i>
+            <i class="fa fa-home" aria-hidden="true"></i>
+            
+        </div>
+        <div class="section">
+            <div class="cover1">
+                <div class="cover2">
+                    <a class="content" href="index.html"></a>
+                </div>
+            </div>
+        </div>
+        <a class="section-static top" href="choropleth.html"></a>
+        <a class="section-static bottom" href="map.html"></a>
+    </div>
+    
+    <h1>Formula 1 Circuits Around the World</h1>
+    <div class="container-fluid map">
+        
+        <div class="row custom-row-style">
+            <select id="menu" class="form-control"></select>
+            <!-- <div class="col-md-3 mr-5">
+                <select id="menu" class="form-control"></select>
+                
+        
+            </div>
+        
+            <div class="col-md-8">
+                <div id="location" class="mt-3"></div>
+                <div id="world" class="hidden"></div>
+                <div id="map"></div>
+            </div> -->
+            
+        </div>
+        <div class="row custom-row-style">
+            <div class="col-md-8">
+                <div id="location" class="mt-3"></div>
+                <div id="world" class="hidden"></div>
+                <div id="map"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="//api.mapbox.com/mapbox-gl-js/v2.10.0/mapbox-gl.js"></script>
+    <script src="//d3js.org/d3.v3.min.js"></script>
+    <script src="//d3js.org/d3.geo.projection.v0.min.js"></script>
+    <script src="//d3js.org/topojson.v3.min.js"></script>
+    <script src="script/map.js"></script>
+    <script src="script/nav.js"></script>
+    <script src="script/drop.js"></script>
+</body>
+</html>

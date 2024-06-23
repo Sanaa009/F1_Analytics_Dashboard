@@ -1,0 +1,52 @@
+race_country,driver,points,position,homecountry,team,idx
+Brazil,Max Verstappen,25,1,Netherlands,RED BULL RACING,1
+Brazil,Max Verstappen,25,1,Netherlands,RED BULL RACING,1
+las Vegas,Max Verstappen,25,1,Netherlands,RED BULL RACING,1
+Netherlands,Max Verstappen,25,1,Netherlands,RED BULL RACING,1
+Austria,Max Verstappen,26,1,Netherlands,RED BULL RACING,1
+Australia,Max Verstappen,25,1,Netherlands,RED BULL RACING,1
+Japan,Max Verstappen,26,1,Netherlands,RED BULL RACING,1
+Belgium,Max Verstappen,25,1,Netherlands,RED BULL RACING,1
+Azerbaijan,Max Verstappen,18,2,Netherlands,RED BULL RACING,1
+Singapore,Max Verstappen,10,5,Netherlands,RED BULL RACING,1
+Monaco,Max Verstappen,25,1,Netherlands,RED BULL RACING,1
+Brazil,Sergio Perez,12,4,Mexico,RED BULL RACING,2
+las Vegas,Sergio Perez,15,3,Mexico,RED BULL RACING,2
+Netherlands,Sergio Perez,12,4,Mexico,RED BULL RACING,2
+Austria,Sergio Perez,15,3,Mexico,RED BULL RACING,2
+Australia,Sergio Perez,11,5,Mexico,RED BULL RACING,2
+Japan,Sergio Perez,0,0,Mexico,RED BULL RACING,2
+Belgium,Sergio Perez,18,2,Mexico,RED BULL RACING,2
+Azerbaijan,Sergio Perez,25,1,Mexico,RED BULL RACING,2
+Singapore,Sergio Perez,4,8,Mexico,RED BULL RACING,2
+Monaco,Sergio Perez,0,16,Mexico,RED BULL RACING,2
+Brazil,Lewis Hamilton,4,8,Great Britain,MERCEDES,3
+las Vegas,Lewis Hamilton,6,7,Great Britain,MERCEDES,3
+Netherlands,Lewis Hamilton,8,6,Great Britain,MERCEDES,3
+Austria,Lewis Hamilton,4,8,Great Britain,MERCEDES,3
+Australia,Lewis Hamilton,18,2,Great Britain,MERCEDES,3
+Japan,Lewis Hamilton,10,5,Great Britain,MERCEDES,3
+Belgium,Lewis Hamilton,13,4,Great Britain,MERCEDES,3
+Azerbaijan,Lewis Hamilton,8,6,Great Britain,MERCEDES,3
+Singapore,Lewis Hamilton,16,3,Great Britain,MERCEDES,3
+Monaco,Lewis Hamilton,13,4,Great Britain,MERCEDES,3
+Brazil,Fernando Alonso,15,3,Spain,ASTON MARTIN ARAMCO,4
+las Vegas,Fernando Alonso,2,9,Spain,ASTON MARTIN ARAMCO,4
+Netherlands,Fernando Alonso,19,2,Spain,ASTON MARTIN ARAMCO,4
+Austria,Fernando Alonso,10,5,Spain,ASTON MARTIN ARAMCO,4
+Australia,Fernando Alonso,15,3,Spain,ASTON MARTIN ARAMCO,4
+Japan,Fernando Alonso,4,8,Spain,ASTON MARTIN ARAMCO,4
+Belgium,Fernando Alonso,10,5,Spain,ASTON MARTIN ARAMCO,4
+Azerbaijan,Fernando Alonso,12,4,Spain,ASTON MARTIN ARAMCO,4
+Singapore,Fernando Alonso,0,15,Spain,ASTON MARTIN ARAMCO,4
+Monaco,Fernando Alonso,18,2,Spain,ASTON MARTIN ARAMCO,4
+Brazil,Charles Leclerc,0,0,Monaco,FERRARI,5
+las Vegas,Charles Leclerc,18,2,Monaco,FERRARI,5
+Netherlands,Charles Leclerc,0,0,Monaco,FERRARI,5
+Austria,Charles Leclerc,18,2,Monaco,FERRARI,5
+Australia,Charles Leclerc,0,0,Monaco,FERRARI,5
+Japan,Charles Leclerc,12,4,Monaco,FERRARI,5
+Belgium,Charles Leclerc,15,3,Monaco,FERRARI,5
+Azerbaijan,Charles Leclerc,15,3,Monaco,FERRARI,5
+Singapore,Charles Leclerc,12,4,Monaco,FERRARI,5
+Monaco,Charles Leclerc,8,6,Monaco,FERRARI,5

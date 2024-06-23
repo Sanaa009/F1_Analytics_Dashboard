@@ -1,0 +1,105 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700);
+@font-face {
+  font-family: 'Formula1-Regular';
+  src: url('static/font/Formula1-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Bold';
+  src: url('static/font/Formula1-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Black';
+  src: url('static/font/Formula1-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Wide';
+  src: url('static/font/Formula1-Wide.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Titillium Web';
+  src: url('static/font/TitilliumWeb-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Formula1-Regular';
+  background-color: #CFCC36;
+  color: #143f17;
+  margin: 20px; /* Add margin to the body */
+  }
+
+  .button-team {
+    background-color: #fff;
+    color: #CFCC36;
+    border-radius: 3px;
+    padding: 8px;
+    cursor: pointer;
+    font-family: Courier;
+    font-size: 0.85em;
+    font-weight: bold;
+  }
+
+  .header {
+    background-color: #fff;
+    color: #CFCC36;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Formula1-Regular';
+  }
+
+  .container-chart-team {
+    font-family: 'Formula1-Regular';
+    display: flex;
+    justify-content: space-between;
+
+  }
+
+  .container{
+    padding-top: 140px;
+
+  }
+  .row{
+    margin-top: 30px;
+    font-size: 20px;
+  
+    margin-bottom: 20px;
+    font-family: 'Formula1-Bold';
+  }
+
+  .chart {
+    flex: 1;
+    margin-left: -30px;
+  }
+
+  h1{
+    font-size: 100px;
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Formula1-Black';
+  }
+
+
+  #yearDropdown {
+    border: none; /* Remove default border */
+    background-color: black; /* Set text color to red */
+    color: white; /* Set background color to transparent */
+  }
+
+  #yearDropdown:hover {
+    background-color: red; /* Change text color to black on hover */
+  }
+
+  .btn {
+   font-family: 'Titillium Web';
+   color: red; /* Set the default background color to black*/
+  }
+
+  .btn:hover {
+    color: white !important; /* Change text color to red on hover */
+    background-color: black; /* Change background color to black on hover */
+  }

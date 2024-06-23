@@ -1,0 +1,147 @@
+/* Font imports */
+
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700);
+@font-face {
+  font-family: 'Formula1-Regular';
+  src: url('static/font/Formula1-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Bold';
+  src: url('static/font/Formula1-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Black';
+  src: url('static/font/Formula1-Black.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Formula1-Wide';
+  src: url('static/font/Formula1-Wide.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('static/font/TitilliumWeb-Regular.ttf') format('truetype');
+  }
+
+.table-container {
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 40px !important;
+    height: 300px;
+    width: 1600px;
+    margin: 0 auto;
+    border-top: 3px red;
+    }
+
+    .desc-container {
+    border-radius: 5px;
+    background-color: white;
+    /* box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1); */
+    padding: 10px;
+    margin-top: -40px;
+    margin-bottom: -80px;
+    height: 200px;
+    width: 80%;
+    margin: 0 auto;
+    }
+    
+    .slider-container {
+    border-radius: 50px;
+      width: 80%;
+      margin-left: 200px;
+      margin-top: -80px;
+      margin-bottom: 90px;
+      background-color: #15151e;
+      padding: 20px;
+    }
+
+    .desc {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    margin-top: -50px;
+    font-family: 'Titillium Web';
+    
+    }
+
+    table {
+      margin-top: 20px;
+      background-color: #15151e;
+      border-collapse: collapse;
+      width: 96vw;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+
+    }
+    th, td {
+        background-color:  white;
+        text-align: left;
+        font-size: 20px; /* Adjust the font size as needed */
+        padding: 20px;
+        margin-left: 50px;
+        font-family: 'Formula1-Regular' !important;
+        color: black; /* Corrected property for text color */
+        transition: background-color 0.3s ease;
+    }
+    th {
+        font-family: 'Formula1-Wide'!important;
+        background-color: #15151e;
+        color: white;
+      border-radius: 20px;
+      padding: 15px;
+    }
+    td:hover{
+       
+        background-color: #e10600;
+        color: white;
+        
+    }
+
+    h1 {
+        margin-top: 50px;
+        font-family: 'Formula1-Bold', sans-serif;
+        font-size: 4em; /* Adjust font size for better readability */
+        color: #15151e;
+        text-align: center;
+        margin-bottom: 80px;
+      }
+
+.lap-buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.lap-buttons button {
+    background-color: #15151e; /* Green background color */
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: 2px solid #e10600;
+    font-family: 'Titillium Web';
+}
+
+.lap-buttons button:hover {
+    background-color: #e10600; /* Darker green color on hover */
+}
+
+/* Adjust the styling as needed */
+
+#selectedLap {
+    font-size: 30px;
+    font-family: 'Formula1-Bold';
+    font-weight: bold;
+    color: #f6f8fa; /* Set your preferred text color */
+    padding-top: 30px;
+  }
+  
