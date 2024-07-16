@@ -5,6 +5,8 @@
 
 The F1 Racing Dashboard is a comprehensive and innovative endeavor, designed to meet the analytical needs of Formula 1 enthusiasts, strategists, and analysts. The visually compelling and user-friendly interface unravels the intricate layers of Formula 1 dynamics, focusing on four key performance indicators (KPIs): Rating, Race Viewership, Total Fanbase, and Stock Price.
 
+link to dashboard: f1-fanalytics.netlify.app
+
 The color scheme, inspired by the official F1 Racing Organization, uses a harmonious blend of red, black, and white, establishing a seamless connection with the sport's authoritative presence.
 
 ## Key Features
